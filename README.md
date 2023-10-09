@@ -8,6 +8,11 @@ Use this as a starting point to complete the WDD 330 team activity: the SleepOut
 
 - You must have Node installed. visit https://byui-cit.github.io/advcss/lesson01/l01-software.html and skip to the Node section for instructions
 
+## Authentication
+- Authentication demonstrated for this e-commerce website is very basic but you get the gist.
+- Login: user1@email.com
+- Password: user1
+
 ## Setup
 
 - `npm install`
